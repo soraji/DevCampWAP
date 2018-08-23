@@ -1,0 +1,13 @@
+{
+  "name": "web-app-push",
+  "short_name": "Demo",
+  "theme_color": "#2196f3",
+  "background_color": "#2196f3",
+  "display": "standalone",
+  "orientation": "portrait",
+  "Scope": "/",
+  "start_url": "/",
+  "icons": null,
+  "splash_pages": null,
+  "gcm_sender_id": "696758097282"
+}
